@@ -37,6 +37,6 @@ This project focuses on developing a machine learning model to predict Dream11 s
 ## How to Use
 
 1. Clone this repository.
-2. Run the Jupyter Notebook `predict_cricket_scores.ipynb` in Google Colab or your local environment.
+2. Run the Jupyter Notebook `Build_a_Winning_Dream_Team.ipynb` in Google Colab or your local environment.
 3. Input historical performance metrics for cricket players.
 4. The model will predict Dream11 scores based on
